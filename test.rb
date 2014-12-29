@@ -81,5 +81,4 @@ class Rectangee
 		puts 2*(@length+@breadth)
 	end
 end
-rec=Rectangee.new(2,10)
-rec.func
+Rectangee.new(2,10).func
